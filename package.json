@@ -1,0 +1,19 @@
+{
+  "name": "gridpuzzleviewer",
+  "version": "1.0.0",
+  "description": "An HTML page for viewing puzzles consisting of a grid, like Sudoku, Ken-Ken, Numbrix.",
+  "main": "index.html",
+  "scripts": {
+    "test": "npm-watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/billwright/GridPuzzleViewer.git"
+  },
+  "author": "Bill Wright",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/billwright/GridPuzzleViewer/issues"
+  },
+  "homepage": "https://github.com/billwright/GridPuzzleViewer#readme"
+}
